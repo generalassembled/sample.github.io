@@ -1,0 +1,31 @@
+.first {
+    color: blue;
+}
+.second {
+    color: aquamarine;
+}
+
+#third {
+    margin: 0 auto;
+    color: red;
+}
+
+img {
+    max-width: 250px;
+    box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+}
+ 
+.image {
+    text-align: center;
+}
+
+body {
+    background-image: url('https://www.flintandgenesee.org/wp-content/uploads/2018/01/pexels-photo-110854-1200x877.jpeg');
+    background-position: cover;
+}
+
+h1 {
+    font-family: 'Mountains of Christmas', cursive;
+}
+
